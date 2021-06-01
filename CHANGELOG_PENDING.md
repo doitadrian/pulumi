@@ -14,3 +14,6 @@
 
 - [sdk/python] Improve performance of `Output.from_input` and `Output.all` on nested objects.
   [#7175](https://github.com/pulumi/pulumi/pull/7175)
+
+- [codegen/dotnet] Fix plain properties
+  [#7180](https://github.com/pulumi/pulumi/pull/7180)
